@@ -1,5 +1,5 @@
 # Covid19_SeverityDetection
-**Leveraging Machine Learning in Screening and Detection of COVID-19**
+**A New Approach of High-Accurate Automatic Comparative Machine Learning in COVID-19 Multi-Source Data Based on Descended Hybrid Scores Average**
 
 **Authors:**
 

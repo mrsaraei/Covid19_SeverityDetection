@@ -1,5 +1,5 @@
 # Covid19_SeverityDetection
-**A New Approach to High-Accurate Automatic Comparative Machine Learning in COVID-19 Multi-Source Data Based on Descended Hybrid Scores Average**
+**A New Approach to Automatic Comparative Machine Learning in COVID-19 Multi-Source Data Based on Descended Hybrid Scores Average**
 
 **Authors:**
 
